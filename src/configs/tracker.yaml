@@ -1,0 +1,8 @@
+byte_tracker:
+  track_thresh: 0.5
+  det_thresh: 0.5
+  out_tresh: 0.5
+  max_time_lost: 30
+  match_thresh: 0.8
+  aspect_ratio_thresh: 1.6
+  min_box_area: 20
