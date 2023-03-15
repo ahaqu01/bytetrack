@@ -29,7 +29,7 @@ ByteTrack的性能比较如下图，横轴表示推理速度、纵轴表示MOTA�
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/bytetrack.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/bytetrack.git
 
 便会在项目目录下下载到bytetrack相关代码
 
